@@ -1,8 +1,7 @@
 body{
-    /* display: block;
-    overflow: hidden; */
+    /* display: block; */
+    overflow: hidden;
 }
-
 
 canvas{
     background-color: #eee;
